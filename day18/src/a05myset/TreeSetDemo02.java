@@ -16,6 +16,7 @@ public class TreeSetDemo02 {
         ts.add("ab");
         ts.add("df");
         ts.add("qwer");
+        ts.add("yyy");
 
         System.out.println(ts);
     }
